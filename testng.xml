@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Com.blaze.test.Tc1_Home"/>
+      <class name="Com.blaze.test.Tc2_Signup"/>
+      <class name="Com.blaze.test.tc3_signin"/>
+      <class name="Com.blaze.test.Tc4_AddToCartVerification"/>
+      <class name="Com.blaze.test.Tc5_deleteChart"/>
+      <class name="Com.blaze.test.TC6_PlaceToOrder"/>
+      <class name="Com.blaze.test.Tc7_contact"/>
+      
+      
+      
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

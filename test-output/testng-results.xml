@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="9" passed="8" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[case title verification completed]]>
+    </line>
+    <line>
+      <![CDATA[logo_link done]]>
+    </line>
+    <line>
+      <![CDATA[User name verified]]>
+    </line>
+    <line>
+      <![CDATA[password verified]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-11-07T15:36:47 IST" name="Suite" finished-at="2025-11-07T15:37:05 IST" duration-ms="17986">
+    <groups>
+    </groups>
+    <test started-at="2025-11-07T15:36:47 IST" name="Test" finished-at="2025-11-07T15:37:05 IST" duration-ms="17986">
+      <class name="Com.blaze.test.TC6_PlaceToOrder">
+        <test-method signature="placeorder()[pri:0, instance:Com.blaze.test.TC6_PlaceToOrder@ba2f4ec]" started-at="2025-11-07T15:37:02 IST" name="placeorder" finished-at="2025-11-07T15:37:04 IST" duration-ms="1504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeorder -->
+      </class> <!-- Com.blaze.test.TC6_PlaceToOrder -->
+      <class name="Com.blaze.test.Tc4_AddToCartVerification">
+        <test-method signature="phones_link()[pri:0, instance:Com.blaze.test.Tc4_AddToCartVerification@367ffa75]" started-at="2025-11-07T15:36:50 IST" name="phones_link" finished-at="2025-11-07T15:36:56 IST" duration-ms="5686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phones_link -->
+      </class> <!-- Com.blaze.test.Tc4_AddToCartVerification -->
+      <class name="Com.blaze.test.Tc2_Signup">
+        <test-method signature="signup_link()[pri:0, instance:Com.blaze.test.Tc2_Signup@40005471]" started-at="2025-11-07T15:36:47 IST" name="signup_link" finished-at="2025-11-07T15:36:49 IST" duration-ms="2160" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[User name verified]]>
+            </line>
+            <line>
+              <![CDATA[password verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signup_link -->
+      </class> <!-- Com.blaze.test.Tc2_Signup -->
+      <class name="Com.blaze.test.Tc1_Home">
+        <test-method is-config="true" signature="launch()[pri:0, instance:Com.blaze.test.Tc1_Home@4b2bac3f]" started-at="2025-11-07T15:36:43 IST" name="launch" finished-at="2025-11-07T15:36:47 IST" duration-ms="3531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="title_verification()[pri:0, instance:Com.blaze.test.Tc1_Home@4b2bac3f]" started-at="2025-11-07T15:36:47 IST" name="title_verification" finished-at="2025-11-07T15:36:47 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[case title verification completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- title_verification -->
+        <test-method signature="logo_link_verification()[pri:1, instance:Com.blaze.test.Tc1_Home@4b2bac3f]" started-at="2025-11-07T15:36:47 IST" name="logo_link_verification" finished-at="2025-11-07T15:36:47 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logo_link done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logo_link_verification -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:Com.blaze.test.Tc1_Home@4b2bac3f]" started-at="2025-11-07T15:37:05 IST" name="terminate" finished-at="2025-11-07T15:37:05 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- Com.blaze.test.Tc1_Home -->
+      <class name="Com.blaze.test.tc3_signin">
+        <test-method signature="signin()[pri:0, instance:Com.blaze.test.tc3_signin@2cd76f31]" started-at="2025-11-07T15:36:49 IST" name="signin" finished-at="2025-11-07T15:36:50 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+      </class> <!-- Com.blaze.test.tc3_signin -->
+      <class name="Com.blaze.test.Tc7_contact">
+        <test-method signature="contact_link()[pri:0, instance:Com.blaze.test.Tc7_contact@1c1bbc4e]" started-at="2025-11-07T15:37:04 IST" name="contact_link" finished-at="2025-11-07T15:37:05 IST" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact_link -->
+      </class> <!-- Com.blaze.test.Tc7_contact -->
+      <class name="Com.blaze.test.Tc5_deleteChart">
+        <test-method signature="cart()[pri:0, instance:Com.blaze.test.Tc5_deleteChart@49438269]" started-at="2025-11-07T15:36:56 IST" name="cart" finished-at="2025-11-07T15:37:02 IST" duration-ms="6694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+      </class> <!-- Com.blaze.test.Tc5_deleteChart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
