@@ -54,11 +54,13 @@ Signup Functionality
 
 Verify signup popup opens correctly
 
+Validate that the application launched successfully and the homepage title matches the expected one
+
+Validate that the logo or product header is correctly displayed, verifying UI consistency
+
 Create a new user with valid data
 
 Handle existing username error
-
-Validate empty field warnings
 
 Close popup without entering data
 
@@ -66,18 +68,23 @@ Login Functionality
 
 Login with valid credentials
 
-Login with invalid credentials
-
-Login with empty fields
-
-Validate alert handling for invalid users
+Validate that username and password fields accept the correct input values
 
 Product Navigation & Cart
 
-View products under Phones, Laptops, and Monitors
+View products under Phones
 
 Add product to cart and verify success alert
 
 Place an order successfully
 
 Validate total amount and confirmation message
+
+Validate the Home page
+
+Validate contact page
+
+Validate the valid email verification
+
+Validate signout Functionality
+
